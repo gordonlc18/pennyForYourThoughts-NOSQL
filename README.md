@@ -53,8 +53,7 @@ _by Latravia Gordon_</br>
 
 ## Tests
 
-- To test my app locally, type `npm start` into your terminal. </br>
-  Then type `http://localhost:(PORT)` EXAMPLE: (`http://localhost:3001`)
+There are no test for this application. 
 
 ## Questions
 
