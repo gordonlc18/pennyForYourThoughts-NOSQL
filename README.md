@@ -44,7 +44,7 @@ _by Latravia Gordon_</br>
 - To install run `npm init -y` or `npm install` then install the dependencies:
 - `Express`
 - `Mongoose`
-- `MongoDB`
+- `MongoDB` </br>
   Then run `npm start` to connect to the server.
 
 ## Usage
